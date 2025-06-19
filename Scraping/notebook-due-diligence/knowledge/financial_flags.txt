@@ -1,0 +1,21 @@
+=== RED FLAGS ===
+1. Declining revenue over multiple years.
+2. Consecutive net losses.
+3. Negative operating cash flow.
+4. Debt-to-equity ratio above 2.0.
+5. High interest expenses relative to operating profit.
+6. Receivables growing faster than revenue.
+7. Inventory build-up (falling inventory turnover).
+8. Frequent or large one-time expenses.
+9. Current ratio < 1 (liquidity risk).
+10. Share pledging by promoters (if available).
+
+=== GREEN FLAGS ===
+1. Consistent or growing revenue and profit.
+2. Positive and growing operating cash flow.
+3. Low debt or healthy interest coverage (> 3).
+4. ROE > 15% consistently.
+5. Strong free cash flow generation.
+6. Efficient working capital cycle.
+7. Healthy dividend payout history.
+8. Clean and unqualified audit reports.

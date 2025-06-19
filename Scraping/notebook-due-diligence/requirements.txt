@@ -1,0 +1,26 @@
+# Core PDF and scraping
+camelot-py[cv]       # Table extraction from PDFs, uses ghostscript + opencv under the hood
+PyMuPDF              # PDF text extraction
+pdfplumber           # Another good PDF text extractor
+pypdf                # PDF manipulation
+
+# Web scraping and automation
+playwright           # Headless browser automation
+requests             # HTTP client
+beautifulsoup4       # HTML parsing
+lxml                 # XML and HTML parsing speedups
+
+# LangChain + OpenAI ecosystem
+openai               # OpenAI API client
+langchain            # LangChain main library
+faiss-cpu            # Vector search
+tiktoken             # Tokenizer for OpenAI
+python-dotenv        # For managing env variables
+langchain_openai
+langchain-community
+
+# Utilities
+pandas               # Data processing (tables, CSV)
+numpy                # Underlying numerical lib for pandas, ML
+
+

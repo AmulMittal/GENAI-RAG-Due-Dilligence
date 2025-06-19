@@ -1,0 +1,18 @@
+=== Creditworthiness Assessment ===
+
+1. DSCR (Debt Service Coverage Ratio) = Net Operating Income / Debt Repayments
+   - DSCR > 1.25 is considered healthy
+
+2. Credit Limit Guidelines:
+   - 25%–40% of Net Working Capital (NWC)
+   - OR 3x–5x annual Net Profit, depending on debt
+
+3. Negative cash flows reduce repayment capacity.
+
+4. Consistent profits, positive OCF, and low debt = high creditworthiness.
+
+5. High leverage (debt/equity > 2) or losses = lower creditworthiness.
+
+6. Free cash flow must be sufficient to cover debt repayments.
+
+Banks use a mix of historical data and projections to decide permissible loan limits.

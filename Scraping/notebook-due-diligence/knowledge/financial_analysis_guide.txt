@@ -1,0 +1,18 @@
+=== Income Statement Metrics ===
+- Gross Margin = (Revenue - COGS) / Revenue
+- Operating Margin = Operating Income / Revenue
+- Net Profit Margin = Net Income / Revenue
+- Interest Coverage = EBIT / Interest Expense
+
+=== Balance Sheet Metrics ===
+- Current Ratio = Current Assets / Current Liabilities
+- Quick Ratio = (Current Assets - Inventory) / Current Liabilities
+- Debt-to-Equity = Total Liabilities / Shareholder Equity
+- Return on Equity (ROE) = Net Income / Equity
+
+=== Cash Flow Metrics ===
+- Operating Cash Flow (OCF): should be positive
+- Free Cash Flow = OCF - Capital Expenditures
+- Negative OCF for multiple years is risky
+
+Financial performance is assessed by combining trends from all three statements.
